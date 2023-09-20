@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Tune",
+  "version": "1.0.4",
+  "description": "An extension that allows users to play and listen to some of the best music pieces.",
+  "action": {
+    "default_popup": "Tune.html",
+    "default_icon": {
+      "16": "IMG-20230720-WA1.png",
+      "48": "IMG-20230720-WA1.png",
+      "128": "IMG-20230720-WA1.png"
+    }
+  }
+}
